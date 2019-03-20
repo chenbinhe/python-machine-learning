@@ -76,7 +76,7 @@
  - canda create -n xxx python=3.7: 创建python版本为3.7的虚拟环境，名字为xxx，可以用这个环境跑专门的项目
  - canda activate xxx ：激活这个环境，以备使用
  ## 要让代码在新激活的环境下跑，用file---settings---project interpreter--点一下那个设置图标小齿轮---选conda env，下existing env,再点图标...将创建的环境设为运行环境，选anaconda3/envs/xxx/bins/python3.7
- ## 这里原环境在    /home/username/anaconda3/bin/python3.7
+ ## 这里原环境在    /home/username/anaconda3/bin/python3.7   这里python/python3/python3.7区别不打均可选
         
         
         
